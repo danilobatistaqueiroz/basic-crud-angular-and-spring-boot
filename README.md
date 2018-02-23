@@ -16,6 +16,9 @@ In Java
 * CrossOrigin (CORS)
 
 
+Project Structure:  
+![angular5_crud_structure](https://user-images.githubusercontent.com/32627919/36615945-d30541dc-18c0-11e8-9dfc-5f7ea2ba3cee.PNG)
+
 ___
 
 Links:
