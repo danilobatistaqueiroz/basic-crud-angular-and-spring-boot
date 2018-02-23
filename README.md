@@ -3,17 +3,17 @@
 This project uses:  
 
 In Angular  
-. NgForm (@angular/forms)
-. rxjs/Subscription
-. rxjs/Observable
-. ActivatedRoute (@angular/router)
-. HttpClient (@angular/common/http)
+* NgForm (@angular/forms)
+* rxjs/Subscription
+* rxjs/Observable
+* ActivatedRoute (@angular/router)
+* HttpClient (@angular/common/http)
 
 In Java  
-. Lombok
-. JPA
-. JpaRepository
-. CrossOrigin (CORS)
+* Lombok
+* JPA
+* JpaRepository
+* CrossOrigin (CORS)
 
 
 ___
