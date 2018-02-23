@@ -16,10 +16,27 @@ In Java
 * CrossOrigin (CORS)
 
 
-Project Structure:  
+
+**Project Structure**
+
 ![angular5_crud_structure](https://user-images.githubusercontent.com/32627919/36615945-d30541dc-18c0-11e8-9dfc-5f7ea2ba3cee.PNG)
 
+
+
+**Screenshots**
+
+![spring rest list](https://user-images.githubusercontent.com/32627919/36616393-58f4f48a-18c2-11e8-8599-2a3103271fcb.PNG)
+
+![spring rest get](https://user-images.githubusercontent.com/32627919/36616394-5924b526-18c2-11e8-8d18-d6d4f007cbd9.PNG)
+
+![angular edit](https://user-images.githubusercontent.com/32627919/36616395-594b25a8-18c2-11e8-8c66-7afc42cffc45.PNG)
+
+![angular list](https://user-images.githubusercontent.com/32627919/36616396-5971890a-18c2-11e8-9fde-098e37ae6012.PNG)
+
+
 ___
+
+
 
 Links:
 
