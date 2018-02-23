@@ -1,0 +1,16 @@
+<form #carForm="ngForm" (ngSubmit)="save(carForm.value)">
+  <h2>{{car.name ? 'Edit' : 'Add'}} Car</h2>
+  <br/>
+  <input type="hidden" name="href" [(ngModel)]="car.href">
+  <br/>
+  <input type="text" placeholder="Car Name" [(ngModel)]="car.name"
+               required name="name" #name>
+  <br/>
+      <button type="submit"
+              [disabled]="!carForm.form.valid">Save</button>
+      <button (click)="remove(car.href)"
+              *ngIf="car.href" type="button">Delete</button>
+      <a mat-button routerLink="/car-list">Cancel</a>
+  <br/>
+  
+</form>
